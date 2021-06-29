@@ -1,8 +1,8 @@
 vidl = raw_input("Please Input URL ")
 
 
-vidUrl = vidl #Change it
+vidUrl = vidl 
 
-Change vidUrl = ('Link') 
+Remove vidUrl = ('Link') 
 
 
